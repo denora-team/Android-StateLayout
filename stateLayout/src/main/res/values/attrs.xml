@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StateLayout">
+        <attr name="defaultLayout" format="enum">
+            <enum name="content" value="0"/>
+            <enum name="loading" value="1"/>
+            <enum name="empty" value="2"/>
+            <enum name="notFound" value="3"/>
+            <enum name="noNetwork" value="4"/>
+            <enum name="error" value="5"/>
+        </attr>
+
+        <attr name="loadingLayout" format="reference"/>
+        <attr name="emptyLayout" format="reference"/>
+        <attr name="notFoundLayout" format="reference"/>
+        <attr name="noNetworkLayout" format="reference"/>
+        <attr name="errorLayout" format="reference"/>
+    </declare-styleable>
+</resources>

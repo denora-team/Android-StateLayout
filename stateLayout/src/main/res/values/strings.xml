@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="empty_title">Empty</string>
+    <string name="error_title">Error</string>
+    <string name="loading_title">Loading …</string>
+    <string name="noNetwork_title">No Network</string>
+    <string name="notFound_title">Not Found</string>
+
+    <string name="empty_subTitle">There is nothing to show</string>
+    <string name="error_subTitle">Sorry! An error occurred</string>
+    <string name="loading_subTitle">Please wait a moment</string>
+    <string name="noNetwork_subTitle">There is an error in network connection</string>
+    <string name="notFound_subTitle">We could not find the data you want</string>
+
+</resources>
