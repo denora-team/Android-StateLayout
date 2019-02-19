@@ -3,6 +3,8 @@
 
 ![](https://travis-ci.org/denora-team/Android-StateLayout.svg?branch=master)
 [![](https://jitpack.io/v/denora-team/Android-StateLayout.svg)](https://jitpack.io/#denora-team/Android-StateLayout)
+---
+<img src="https://media.giphy.com/media/1USKgrUnkyEnwS6CYE/source.gif" width="300">
 
 ---
 ## How to install
