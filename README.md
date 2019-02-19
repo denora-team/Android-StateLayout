@@ -3,6 +3,10 @@
 
 ![](https://travis-ci.org/denora-team/Android-StateLayout.svg?branch=master)
 [![](https://jitpack.io/v/denora-team/Android-StateLayout.svg)](https://jitpack.io/#denora-team/Android-StateLayout)
+![](https://img.shields.io/badge/build%20for-android-green.svg)
+![](https://img.shields.io/badge/made%20with-kotlin-blue.svg)
+![](https://img.shields.io/github/license/denora-team/Android-StateLayout.svg)
+
 ---
 <img src="https://media.giphy.com/media/1USKgrUnkyEnwS6CYE/source.gif" width="300">
 
