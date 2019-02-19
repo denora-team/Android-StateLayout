@@ -25,12 +25,24 @@ class MainActivity : AppCompatActivity() {
         stateLayout.onStateChangedListener = object : OnStateChangedListener {
             override fun onStateChanged(state: State) {
                 when (state) {
-                    ContentState -> TODO()
-                    LoadingState -> TODO()
-                    EmptyState -> TODO()
-                    NotFoundState -> TODO()
-                    NoNetworkState -> TODO()
-                    ErrorState -> TODO()
+                    ContentState -> {
+                        //  TODO
+                    }
+                    LoadingState -> {
+                        //  TODO
+                    }
+                    EmptyState -> {
+                        //  TODO
+                    }
+                    NotFoundState -> {
+                        //  TODO
+                    }
+                    NoNetworkState -> {
+                        //  TODO
+                    }
+                    ErrorState -> {
+                        //  TODO
+                    }
                 }
             }
         }
